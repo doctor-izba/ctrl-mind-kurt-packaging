@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="kk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0861C6">
+  <meta name="description" content="Құрт ысталған: ұпай жинаудың ашық симуляциясы. Публичная демонстрация накопления баллов без персональных данных.">
+  <meta name="referrer" content="no-referrer">
+  <title>Құрт ысталған · Гормолзавод · Демо</title>
+  <link rel="stylesheet" href="./style.css">
+  <script src="./core.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <div class="simulation-banner"><strong>ДЕМО · СИМУЛЯЦИЯ</strong><span>Тек осы браузерде · Только в этом браузере</span></div>
+  <header class="header">
+    <a href="#welcome" class="brand"><strong>Гормолзавод</strong><span>КӨКШЕТАУ · 1965</span><small>Логотип орны / Место логотипа</small></a>
+    <div class="header-right"><span class="language">ҚАЗ / РУС</span><button type="button" class="reset" id="reset-open">Демоны жаңарту<br><span lang="ru">Сбросить демо</span></button></div>
+  </header>
+  <main id="app" tabindex="-1"></main>
+  <footer>
+    <p>Браузердегі симуляция: сервер, CRM, SMS және нақты сыйлықтар жоқ.<br><span lang="ru">Симуляция в браузере: без сервера, CRM, SMS и реальных призов.</span></p>
+    <p>Жеке деректер жиналмайды. AI: Codex.<br><span lang="ru">Персональные данные не собираются. AI: Codex.</span></p>
+  </footer>
+  <dialog id="reset-dialog" aria-labelledby="reset-title"><h2 id="reset-title">Демоны бастапқы күйге келтіру<br><span lang="ru">Сбросить демонстрацию</span></h2><p>Ұпайлар мен тест кодтарының тарихы тек осы браузерден өшіріледі.<br><span lang="ru">Баллы и история тест-кодов будут удалены только из этого браузера.</span></p><div class="dialog-actions"><button type="button" class="secondary" id="reset-cancel">Бас тарту / Отмена</button><button type="button" class="primary" id="reset-confirm">Өшіру / Сбросить</button></div></dialog>
+  <div class="sr-only" role="status" aria-live="polite" id="announcer"></div>
+</body>
+</html>

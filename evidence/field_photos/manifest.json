@@ -1,6 +1,6 @@
 {
   "source": "Six photographs supplied by user in this conversation",
-  "note": "Filename is receipt evidence, not proof of shooting time. At least two shelf contexts; no claim of three stores. No identifiable faces observed. Metadata pending user.",
+  "note": "Photographer, permission and shooting date 2026-10-18 confirmed by team. Receipt date 2026-10-30 is separate. Tamdy and Adil are separately listed businesses at the same street address.",
   "photos": [
     {
       "id": "F01",
@@ -14,11 +14,14 @@
       ],
       "exif": {},
       "received_date": "2026-10-30",
-      "shooting_date": null,
-      "store_name": null,
-      "store_address": null,
-      "photographer": null,
-      "administration_permission": null
+      "shooting_date": "18.10.2026",
+      "store_name": "Magnum",
+      "store_address": "Астана, улица Алматы, 2",
+      "photographer": "Арман Шаймерденов",
+      "administration_permission": "Подтверждено командой: разрешение администрации получено",
+      "store_type": "Сетевой супермаркет",
+      "store_reference": "https://2gis.kz/astana/firm/70000001052343461",
+      "attribution_status": "USER_REPORTED_DATE_STORE_AND_AUTHOR_ADDRESS_VERIFIED_2GIS"
     },
     {
       "id": "F02",
@@ -32,11 +35,14 @@
       ],
       "exif": {},
       "received_date": "2026-10-30",
-      "shooting_date": null,
-      "store_name": null,
-      "store_address": null,
-      "photographer": null,
-      "administration_permission": null
+      "shooting_date": "18.10.2026",
+      "store_name": "Magnum",
+      "store_address": "Астана, улица Алматы, 2",
+      "photographer": "Арман Шаймерденов",
+      "administration_permission": "Подтверждено командой: разрешение администрации получено",
+      "store_type": "Сетевой супермаркет",
+      "store_reference": "https://2gis.kz/astana/firm/70000001052343461",
+      "attribution_status": "USER_REPORTED_DATE_STORE_AND_AUTHOR_ADDRESS_VERIFIED_2GIS"
     },
     {
       "id": "F03",
@@ -50,11 +56,14 @@
       ],
       "exif": {},
       "received_date": "2026-10-30",
-      "shooting_date": null,
-      "store_name": null,
-      "store_address": null,
-      "photographer": null,
-      "administration_permission": null
+      "shooting_date": "18.10.2026",
+      "store_name": "Tamdy",
+      "store_address": "Астана, улица Ахмет Байтурсынулы, 14/1",
+      "photographer": "Арман Шаймерденов",
+      "administration_permission": "Подтверждено командой: разрешение администрации получено",
+      "store_type": "Мини-маркет",
+      "store_reference": "https://2gis.kz/astana/firm/70000001075772563",
+      "attribution_status": "USER_REPORTED_DATE_STORE_AND_AUTHOR_ADDRESS_VERIFIED_2GIS"
     },
     {
       "id": "F04",
@@ -68,11 +77,14 @@
       ],
       "exif": {},
       "received_date": "2026-10-30",
-      "shooting_date": null,
-      "store_name": null,
-      "store_address": null,
-      "photographer": null,
-      "administration_permission": null
+      "shooting_date": "18.10.2026",
+      "store_name": "Tamdy",
+      "store_address": "Астана, улица Ахмет Байтурсынулы, 14/1",
+      "photographer": "Арман Шаймерденов",
+      "administration_permission": "Подтверждено командой: разрешение администрации получено",
+      "store_type": "Мини-маркет",
+      "store_reference": "https://2gis.kz/astana/firm/70000001075772563",
+      "attribution_status": "USER_REPORTED_DATE_STORE_AND_AUTHOR_ADDRESS_VERIFIED_2GIS"
     },
     {
       "id": "F05",
@@ -86,11 +98,14 @@
       ],
       "exif": {},
       "received_date": "2026-10-30",
-      "shooting_date": null,
-      "store_name": null,
-      "store_address": null,
-      "photographer": null,
-      "administration_permission": null
+      "shooting_date": "18.10.2026",
+      "store_name": "Tamdy",
+      "store_address": "Астана, улица Ахмет Байтурсынулы, 14/1",
+      "photographer": "Арман Шаймерденов",
+      "administration_permission": "Подтверждено командой: разрешение администрации получено",
+      "store_type": "Мини-маркет",
+      "store_reference": "https://2gis.kz/astana/firm/70000001075772563",
+      "attribution_status": "USER_REPORTED_DATE_STORE_AND_AUTHOR_ADDRESS_VERIFIED_2GIS"
     },
     {
       "id": "F06",
@@ -104,11 +119,39 @@
       ],
       "exif": {},
       "received_date": "2026-10-30",
-      "shooting_date": null,
-      "store_name": null,
-      "store_address": null,
-      "photographer": null,
-      "administration_permission": null
+      "shooting_date": "18.10.2026",
+      "store_name": "Аділ",
+      "store_address": "Астана, улица Ахмет Байтурсынулы, 14/1",
+      "photographer": "Арман Шаймерденов",
+      "administration_permission": "Подтверждено командой: разрешение администрации получено",
+      "store_type": "Мини-маркет",
+      "store_reference": "https://2gis.kz/astana/firm/70000001097469759",
+      "attribution_status": "USER_REPORTED_DATE_STORE_AND_AUTHOR_ADDRESS_VERIFIED_2GIS"
     }
-  ]
+  ],
+  "stores": [
+    {
+      "name": "Magnum",
+      "address": "Астана, улица Алматы, 2",
+      "type": "Сетевой супермаркет",
+      "url": "https://2gis.kz/astana/firm/70000001052343461",
+      "short_url": "https://go.2gis.com/Xr89J"
+    },
+    {
+      "name": "Tamdy",
+      "address": "Астана, улица Ахмет Байтурсынулы, 14/1",
+      "type": "Мини-маркет",
+      "url": "https://2gis.kz/astana/firm/70000001075772563",
+      "short_url": "https://go.2gis.com/ZXJKr"
+    },
+    {
+      "name": "Аділ",
+      "address": "Астана, улица Ахмет Байтурсынулы, 14/1",
+      "type": "Мини-маркет",
+      "url": "https://2gis.kz/astana/firm/70000001097469759",
+      "short_url": "https://go.2gis.com/fVLMU"
+    }
+  ],
+  "attribution_source": "User reply in this conversation 2026-10-30; names and addresses checked against the three supplied 2GIS firm cards.",
+  "mapping_note": "First two images -> Magnum; middle attachment group F03-F05 -> Tamdy; last attachment F06 -> Adil, following user order and Telegram filename groups. Three store locations are user-reported; the photo coverage remains two broad shelf contexts plus closeups."
 }

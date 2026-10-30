@@ -15,3 +15,11 @@ Competition PDFs and the evidence index are added under `submission/` after revi
 ## Files and rights
 
 `public-demo/` is the exact static Cloudflare Pages upload. No build step is needed. Font licences accompany the fonts. The «Гормолзавод» trademark belongs to its owner; no transfer or general licence to brand assets is implied by this repository.
+
+## Final technical package - 30 October 2026
+
+[Download ten materials](https://github.com/doctor-izba/ctrl-mind-kurt-packaging/releases/tag/submission-2026-10-30).
+
+Submission contains ten numbered PDFs, QA, checklist and judges guide. Evidence contains ten unchanged native Antigravity UI captures taken retrospectively on 30 October. They show different views of one final-correction conversation, not ten independent generation sessions. Six user-supplied photographs are preserved with their manifest. Store names, addresses and shooting dates remain unconfirmed; three separate store visits are not established.
+
+The verified Antigravity prompt export was checked against source records. One paraphrase was replaced with the actual generate_image argument. File validator: 68/68 integrity checks passed. This does not establish competition eligibility or manufacturer approval; see SUBMISSION_CHECKLIST.md.

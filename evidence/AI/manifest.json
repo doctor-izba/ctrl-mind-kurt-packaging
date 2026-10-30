@@ -1,0 +1,86 @@
+{
+  "capture_date": "2026-10-30",
+  "notice": "Ten unaltered native UI captures of the existing Antigravity final-correction conversation. Several frames show different parts of one response, not ten distinct AI sessions. Historical AI PASS labels are statements in the conversation, not independent certification. These frames document retrospective review; generation tool prompts and raw outputs are in the separate verbatim handoff.",
+  "frames": [
+    {
+      "file": "08_01.jpg",
+      "caption": "Исходное задание финальной коррекции и пути готовых файлов, ответ Antigravity",
+      "captured_at": "2026-10-30T14:34:04.134Z",
+      "source": "Native Antigravity UI; existing project conversation; retrospective capture on 2026-10-30",
+      "sha256": "2dc1d4f813350433fd58ec87ba26ee929e5a94b0bfbe2eaee17d7452abc47bad",
+      "prompt_reference": "PROMPT-08-USER-FINAL-CREATIVE-CORRECTION"
+    },
+    {
+      "file": "08_02.jpg",
+      "caption": "Ответ Antigravity: QR, восемь слайдов и экспорт; заявления AI проверены отдельно по итоговым файлам",
+      "captured_at": "2026-10-30T14:34:23.718Z",
+      "source": "Native Antigravity UI; existing project conversation; retrospective capture on 2026-10-30",
+      "sha256": "859e693ef7a097d321aac2bc8113b735466c1711302cc459d20d7f12185e7b05",
+      "prompt_reference": "PROMPT-08-USER-FINAL-CREATIVE-CORRECTION"
+    },
+    {
+      "file": "08_03.jpg",
+      "caption": "Ответ Antigravity по логотипу, штрихкоду и инженерной конструкции; утверждение AI не заменяет согласования производителя",
+      "captured_at": "2026-10-30T14:34:34.553Z",
+      "source": "Native Antigravity UI; existing project conversation; retrospective capture on 2026-10-30",
+      "sha256": "24f5cf2f9a41ca10571f8f4a3e7f02849c36f715676d3293d6d9dc7326a7ced4",
+      "prompt_reference": "PROMPT-08-USER-FINAL-CREATIVE-CORRECTION"
+    },
+    {
+      "file": "08_04.jpg",
+      "caption": "Ответ Antigravity: исключение неподтверждённых свойств, 0 г жира и разъяснение порции белка",
+      "captured_at": "2026-10-30T14:34:43.658Z",
+      "source": "Native Antigravity UI; existing project conversation; retrospective capture on 2026-10-30",
+      "sha256": "a47baaa4a770a45bc0e857eabedcf290c013963bc477c8f88c00d751b267b6c1",
+      "prompt_reference": "PROMPT-08-USER-FINAL-CREATIVE-CORRECTION"
+    },
+    {
+      "file": "08_05.jpg",
+      "caption": "Подлинный интерфейс Antigravity: исходное задание, ответ и открытый фасад front_60g_300dpi.png",
+      "captured_at": "2026-10-30T14:35:19.115Z",
+      "source": "Native Antigravity UI; existing project conversation; retrospective capture on 2026-10-30",
+      "sha256": "d1dc775e723369e038cf92cab2501e52a4f5ac4a21c6b9bfb1a075d1ec525a0e",
+      "prompt_reference": "PROMPT-08-USER-FINAL-CREATIVE-CORRECTION"
+    },
+    {
+      "file": "08_06.jpg",
+      "caption": "Подлинный AI-интерфейс: оборот, состав и пищевая ценность в открытом результате back_60g_300dpi.png",
+      "captured_at": "2026-10-30T14:35:34.733Z",
+      "source": "Native Antigravity UI; existing project conversation; retrospective capture on 2026-10-30",
+      "sha256": "3a6ae9ce536d91740f982b9072c1aa9fd442f7b6e12f8757764e909e68a5645c",
+      "prompt_reference": "PROMPT-08-USER-FINAL-CREATIVE-CORRECTION"
+    },
+    {
+      "file": "08_07.jpg",
+      "caption": "Подлинный AI-интерфейс: три концепции и макеты на контактном листе результата",
+      "captured_at": "2026-10-30T14:35:52.820Z",
+      "source": "Native Antigravity UI; existing project conversation; retrospective capture on 2026-10-30",
+      "sha256": "d4e4a20fc83fb85ff71cb90767bf86c44ead42174226f87e64971163964b8121",
+      "prompt_reference": "PROMPT-08-USER-FINAL-CREATIVE-CORRECTION"
+    },
+    {
+      "file": "08_08.jpg",
+      "caption": "Подлинный AI-интерфейс: мокапы и восемь слайдов на контактном листе; это визуализации, не полевые фото",
+      "captured_at": "2026-10-30T14:36:02.886Z",
+      "source": "Native Antigravity UI; existing project conversation; retrospective capture on 2026-10-30",
+      "sha256": "6ba655e96be821cef8594e21f07e96a7e9ad7bcef90d1bca1179089903c69db8",
+      "prompt_reference": "PROMPT-08-USER-FINAL-CREATIVE-CORRECTION"
+    },
+    {
+      "file": "08_09.jpg",
+      "caption": "Подлинный AI-интерфейс: ответ и исходная восьмислайдовая PDF-презентация Antigravity",
+      "captured_at": "2026-10-30T14:36:27.485Z",
+      "source": "Native Antigravity UI; existing project conversation; retrospective capture on 2026-10-30",
+      "sha256": "41c560f513e04a5c23126639f5782569388819851b610f592bd5d01dd101ad3f",
+      "prompt_reference": "PROMPT-08-USER-FINAL-CREATIVE-CORRECTION"
+    },
+    {
+      "file": "08_10.jpg",
+      "caption": "Подлинный AI-интерфейс: предпросмотр редактируемого SVG с названием, логотипом и QR; финальная коррекция",
+      "captured_at": "2026-10-30T14:36:52.093Z",
+      "source": "Native Antigravity UI; existing project conversation; retrospective capture on 2026-10-30",
+      "sha256": "aa0fdc22c263abfe7f08f037397402cb46d4ae180e0cc80800c43ab0e488c5d7",
+      "prompt_reference": "PROMPT-08-USER-FINAL-CREATIVE-CORRECTION"
+    }
+  ]
+}

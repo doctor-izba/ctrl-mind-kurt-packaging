@@ -1,0 +1,114 @@
+{
+  "source": "Six photographs supplied by user in this conversation",
+  "note": "Filename is receipt evidence, not proof of shooting time. At least two shelf contexts; no claim of three stores. No identifiable faces observed. Metadata pending user.",
+  "photos": [
+    {
+      "id": "F01",
+      "file": "evidence\\field_received_2026-10-30\\F01_photo_1_2026-10-30_19-13-25.jpg",
+      "original_filename": "photo_1_2026-10-30_19-13-25.jpg",
+      "caption": "Витрина с куртом: Orda, Nәtige и другие упаковки; общий план.",
+      "sha256": "e21cefab0cec458116534332bc79286ee90d147b08503f37e7760ccc50a1e7b6",
+      "size": [
+        1280,
+        960
+      ],
+      "exif": {},
+      "received_date": "2026-10-30",
+      "shooting_date": null,
+      "store_name": null,
+      "store_address": null,
+      "photographer": null,
+      "administration_permission": null
+    },
+    {
+      "id": "F02",
+      "file": "evidence\\field_received_2026-10-30\\F02_photo_2_2026-10-30_19-13-25.jpg",
+      "original_filename": "photo_2_2026-10-30_19-13-25.jpg",
+      "caption": "Второй ракурс той же витрины. Не считается отдельным магазином.",
+      "sha256": "996ed9a8a404699207b51774c5baf53469271e74b4173c3773a6e84ab8ef58fa",
+      "size": [
+        1280,
+        960
+      ],
+      "exif": {},
+      "received_date": "2026-10-30",
+      "shooting_date": null,
+      "store_name": null,
+      "store_address": null,
+      "photographer": null,
+      "administration_permission": null
+    },
+    {
+      "id": "F03",
+      "file": "evidence\\field_received_2026-10-30\\F03_photo_4_2026-10-30_19-13-42.jpg",
+      "original_filename": "photo_4_2026-10-30_19-13-42.jpg",
+      "caption": "Подвесная выкладка Keremet’s и Жаннәр среди снеков.",
+      "sha256": "3ecb6303b4f395cf468c7100fbef3a4d03f3e7ed55188c0f82539e419942b733",
+      "size": [
+        960,
+        1280
+      ],
+      "exif": {},
+      "received_date": "2026-10-30",
+      "shooting_date": null,
+      "store_name": null,
+      "store_address": null,
+      "photographer": null,
+      "administration_permission": null
+    },
+    {
+      "id": "F04",
+      "file": "evidence\\field_received_2026-10-30\\F04_photo_3_2026-10-30_19-13-42.jpg",
+      "original_filename": "photo_3_2026-10-30_19-13-42.jpg",
+      "caption": "Keremet’s: белый круглый курт, прозрачная упаковка; крупный план.",
+      "sha256": "999498c647fb9467ff0273568baf6ddba60ec83c8df4058e5cc4a2144c6c62cd",
+      "size": [
+        960,
+        1280
+      ],
+      "exif": {},
+      "received_date": "2026-10-30",
+      "shooting_date": null,
+      "store_name": null,
+      "store_address": null,
+      "photographer": null,
+      "administration_permission": null
+    },
+    {
+      "id": "F05",
+      "file": "evidence\\field_received_2026-10-30\\F05_photo_2_2026-10-30_19-13-42.jpg",
+      "original_filename": "photo_2_2026-10-30_19-13-42.jpg",
+      "caption": "Keremet’s: копчёный курт, красная упаковка; крупный план.",
+      "sha256": "ab90438324e7fa3a19e7260d80835de093fc05f06bafa28585a01d40bd7d3b45",
+      "size": [
+        960,
+        1280
+      ],
+      "exif": {},
+      "received_date": "2026-10-30",
+      "shooting_date": null,
+      "store_name": null,
+      "store_address": null,
+      "photographer": null,
+      "administration_permission": null
+    },
+    {
+      "id": "F06",
+      "file": "evidence\\field_received_2026-10-30\\F06_photo_1_2026-10-30_19-14-11.jpg",
+      "original_filename": "photo_1_2026-10-30_19-14-11.jpg",
+      "caption": "Жаннәр Bars-Energy: продукт виден через прозрачную часть; крупный план.",
+      "sha256": "85469f3934647708dafe26b5b4849d64d29fe8ff3935e93c33f3afdf9e143129",
+      "size": [
+        960,
+        1280
+      ],
+      "exif": {},
+      "received_date": "2026-10-30",
+      "shooting_date": null,
+      "store_name": null,
+      "store_address": null,
+      "photographer": null,
+      "administration_permission": null
+    }
+  ]
+}
